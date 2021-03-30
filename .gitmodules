@@ -1,0 +1,6 @@
+[submodule "git-submodule-child"]
+	path = git-submodule-child
+	url = https://github.com/Jonathan-Walsh/git-submodule-child.git
+        branch = master
+	fetchRecurseSubmodules = true
+	update = checkout
